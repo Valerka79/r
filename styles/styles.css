@@ -90,7 +90,7 @@ body {
 
 /*work styles*/
 .work {
-  /* padding: 0px; */
+  background-color: rgb(255, 255, 255, 0);
 }
 .work-pos {
   margin-bottom: 10px;
@@ -132,7 +132,7 @@ body {
 
 /*Education styles*/
 .education {
-  /* margin: 0px 0px 10px 0px; */
+  background-color: rgb(255, 255, 255, 0);
 }
 .univer {
   font-style: normal;
