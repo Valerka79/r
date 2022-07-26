@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #f3e1e1;
+  background-color: #07ca55;
 }
 /* main styles */
 .main {
@@ -12,7 +12,7 @@ body {
 .main_content {
   background-color: #ffffff;
   padding: 105px 90px;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.7);
 }
 
 /*about styles*/
@@ -89,6 +89,7 @@ body {
 
 /*work styles*/
 .work {
+  /* padding: 0px; */
 }
 .work-pos {
   margin-bottom: 10px;
